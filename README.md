@@ -1,2 +1,2 @@
 # SystemAnalysis
-This repository contains workshops, task or homeworks for the class of System Analysis of the UD
+This repository houses the workshops, tasks and exercises corresponding to the Systems Analysis course at the Universidad Francisco José de Caldas (UD). Here you will find the material associated with each activity, including the code and relevant documentation for each task and workshop carried out in the course.
